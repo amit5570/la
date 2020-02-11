@@ -1,0 +1,6 @@
+x=int(input("enter real part of First complex number"))
+y=int(input("enter imag part"))
+p=int(input("enter real part of second complex number"))
+q=int(input("enter imag part"))
+result=complex(x,y)+complex(p,q)
+print(result)

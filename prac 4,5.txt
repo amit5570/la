@@ -1,0 +1,14 @@
+practical no:4
+write the program for the following:
+a)find the vector matrix multiplication of rxc matrix M with column vect U
+b)find matrix multipication
+
+prac:5
+write program to enter matrix and check if it is invertible if the inverse exist find the inverse
+
+a)numpy.linalg.det()
+b)numpy.linalg.inv()
+1)this function is used to find to determinent 
+if the determinent non 0 we can find the inverse
+
+2)we can find the inverse of matrix with help of this
